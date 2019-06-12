@@ -1,0 +1,13 @@
+.slider h3, .slider h5 {
+    text-shadow: 2px 2px 5px rgba(0, 0, 100, 0.5)
+}
+.parallax-container {
+    height: 20%;
+}
+.community img {
+    max-width: 30%;
+    filter: drop-shadow(1px 1px 1px rgba(0,0,0,1));
+}
+section {
+    padding: 20px 0;
+}
